@@ -1,5 +1,6 @@
 {
     "editor.fontSize": 10,
+    "editor.mouseWheelZoom": true,
     "editor.tabSize": 2,
     "explorer.confirmDragAndDrop": false,
     "extensions.autoRestart": true,
@@ -10,8 +11,8 @@
     "git.enableSmartCommit": true,
     "git.openAfterClone": "whenNoFolderOpen",
     "scm.defaultViewMode": "tree",
-    "scm.inputFontSize": 10,
     "scm.repositories.sortOrder": "name",
     "scm.showActionButton": false,
+    "terminal.integrated.mouseWheelZoom": true,
     "window.zoomLevel": 0.5
 }
