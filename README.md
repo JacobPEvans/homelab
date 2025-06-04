@@ -1,2 +1,2 @@
 # homelab
-Misc Homelab Configs
+Misc Homelab and local workstation configurations
