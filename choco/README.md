@@ -1,5 +1,7 @@
 # git/homelab/choco
-## Generated with:
-```bat
-choco export -o git/homelab/choco/chocolatey-packages.config
+
+## Generated with
+
+```powershell
+choco export c:\git\homelab\choco\chocolatey-packages.xml --with-rm
 ```

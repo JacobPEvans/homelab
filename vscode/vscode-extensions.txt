@@ -1,9 +1,3 @@
-# Generated with:
-# ~~~
-#    cd homelab/vscode
-#    code --list-extensions > vscode-extensions.txt
-# ~~~
-
 GitHub.vscode-pull-request-github
 mechatroner.rainbow-csv
 ms-azure-devops.azure-pipelines
