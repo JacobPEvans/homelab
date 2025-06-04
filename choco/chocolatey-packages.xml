@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <packages>
+  <package id="awscli" />
   <package id="bitwarden" />
+  <package id="bitwarden-cli" />
   <package id="chocolatey" />
   <package id="chocolatey-compatibility.extension" />
   <package id="chocolatey-core.extension" />
@@ -10,13 +12,17 @@
   <package id="docker-cli" />
   <package id="docker-compose" />
   <package id="docker-desktop" />
+  <package id="dotnetfx" />
   <package id="gimp" />
   <package id="git" />
   <package id="git.install" />
   <package id="gnupg" />
+  <package id="kubernetes-cli" />
   <package id="mongodb-compass" />
   <package id="mongodb-database-tools" />
   <package id="nmap" />
+  <package id="nodejs" />
+  <package id="nodejs.install" />
   <package id="notepadplusplus" />
   <package id="notepadplusplus.install" />
   <package id="openssl" />
@@ -27,6 +33,12 @@
   <package id="royalts-v7-x64" />
   <package id="rpi-imager" />
   <package id="slack" />
+  <package id="tree" />
   <package id="ubiquiti-wifiman-desktop" />
+  <package id="vcredist140" />
+  <package id="vcredist2015" />
+  <package id="visualstudio2017buildtools" />
+  <package id="visualstudio2017-workload-vctools" />
+  <package id="visualstudio-installer" />
   <package id="wiztree" />
 </packages>

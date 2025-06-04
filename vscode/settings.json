@@ -1,0 +1,18 @@
+{
+    "editor.fontSize": 10,
+    "editor.mouseWheelZoom": true,
+    "editor.tabSize": 2,
+    "explorer.confirmDragAndDrop": false,
+    "extensions.autoRestart": true,
+    "git.alwaysSignOff": true,
+    "git.autofetch": "all",
+    "git.confirmSync": false,
+    "git.defaultCloneDirectory": "C:\\git",
+    "git.enableSmartCommit": true,
+    "git.openAfterClone": "whenNoFolderOpen",
+    "scm.defaultViewMode": "tree",
+    "scm.repositories.sortOrder": "name",
+    "scm.showActionButton": false,
+    "terminal.integrated.mouseWheelZoom": true,
+    "window.zoomLevel": 0.5
+}
