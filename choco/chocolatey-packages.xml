@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <packages>
+  <package id="autohotkey" />
+  <package id="autohotkey.install" />
   <package id="awscli" />
   <package id="bitwarden" />
   <package id="bitwarden-cli" />
@@ -7,17 +9,21 @@
   <package id="chocolatey-compatibility.extension" />
   <package id="chocolatey-core.extension" />
   <package id="chocolatey-dotnetfx.extension" />
+  <package id="chocolatey-npm.extension" />
   <package id="chocolatey-visualstudio.extension" />
   <package id="chocolatey-windowsupdate.extension" />
   <package id="docker-cli" />
   <package id="docker-compose" />
   <package id="docker-desktop" />
   <package id="dotnetfx" />
+  <package id="gh" />
   <package id="gimp" />
   <package id="git" />
   <package id="git.install" />
   <package id="gnupg" />
   <package id="kubernetes-cli" />
+  <package id="lghub" />
+  <package id="markdownlint-cli" />
   <package id="mongodb-compass" />
   <package id="mongodb-database-tools" />
   <package id="nmap" />
@@ -26,6 +32,7 @@
   <package id="notepadplusplus" />
   <package id="notepadplusplus.install" />
   <package id="openssl" />
+  <package id="paint.net" />
   <package id="powershell-core" />
   <package id="python" />
   <package id="python3" />
@@ -33,6 +40,8 @@
   <package id="royalts-v7-x64" />
   <package id="rpi-imager" />
   <package id="slack" />
+  <package id="terraform" />
+  <package id="terragrunt" />
   <package id="tree" />
   <package id="ubiquiti-wifiman-desktop" />
   <package id="vcredist140" />
