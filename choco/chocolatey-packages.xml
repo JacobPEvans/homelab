@@ -3,6 +3,8 @@
   <package id="autohotkey" />
   <package id="autohotkey.install" />
   <package id="awscli" />
+  <package id="beyondcompare" />
+  <package id="beyondcompare-integration" />
   <package id="bitwarden" />
   <package id="bitwarden-cli" />
   <package id="chocolatey" />
@@ -12,6 +14,7 @@
   <package id="chocolatey-npm.extension" />
   <package id="chocolatey-visualstudio.extension" />
   <package id="chocolatey-windowsupdate.extension" />
+  <package id="claude" />
   <package id="docker-cli" />
   <package id="docker-compose" />
   <package id="docker-desktop" />
